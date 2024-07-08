@@ -31,6 +31,7 @@ export PRIVATE_KEY = Private Key
 
 ## Configuration Setup (/config/config.json)
 
+```
 {
   "masterLibId": "Library ID for the master object",
   "mezLibId": "Library ID for the mezzanine object",
@@ -47,6 +48,7 @@ export PRIVATE_KEY = Private Key
   
   "configUrl": "URL for the configuration"
 }
+```
 
 ## Usage
 
