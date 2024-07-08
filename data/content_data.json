@@ -1,0 +1,88 @@
+{
+  "public": {
+    "asset_metadata": {
+      "display_title": "1408 2007",
+      "movieClips ID": "--b-8xt2PeE",
+      "info": {
+        "copyright": "TM & © The Weinstein Company (2007)",
+        "runtime": "00:02:09.13",
+        "synopsis": "Olin (Samuel L. Jackson) tries to prevent Mike (John Cusack) from staying in Room 1408.",
+        "talent": {
+          "actor": [
+            {
+              "name": "John Cusack",
+              "talent_type": "Actor"
+            },
+            {
+              "name": "Samuel L. Jackson",
+              "talent_type": "Actor"
+            }
+          ],
+          "director": [
+            {
+              "name": "Mikael Håfström",
+              "talent_type": "Director"
+            }
+          ],
+          "producer": [
+            {
+              "name": "Kelly Dennis",
+              "talent_type": "Producer"
+            },
+            {
+              "name": "Lorenzo di Bonaventura",
+              "talent_type": "Producer"
+            },
+            {
+              "name": "Antonia Kalmacoff",
+              "talent_type": "Producer"
+            },
+            {
+              "name": "Jake Myers",
+              "talent_type": "Producer"
+            },
+            {
+              "name": "Richard Saperstein",
+              "talent_type": "Producer"
+            },
+            {
+              "name": "Jeremy Steckler",
+              "talent_type": "Producer"
+            },
+            {
+              "name": "Bob Weinstein",
+              "talent_type": "Producer"
+            },
+            {
+              "name": "Harvey Weinstein",
+              "talent_type": "Producer"
+            }
+          ],
+          "screenplay": [
+            {
+              "name": "Matt Greenberg",
+              "talent_type": "Screenwriter"
+            },
+            {
+              "name": "Scott Alexander",
+              "talent_type": "Screenwriter"
+            },
+            {
+              "name": "Larry Karaszewski",
+              "talent_type": "Screenwriter"
+            },
+            {
+              "name": "Stephen King",
+              "talent_type": "Screenwriter"
+            }
+          ]
+        },
+        "release_year": "2007"
+      },
+      "title": "1408 (2/12) Movie CLIP - 56 Deaths (2007) HD",
+      "query": "56 Deaths",
+      "film description": "A writer renowned for debunking infamous paranormal events is confronted by a force that he cannot explain upon checking into room 1408 of the notoriously haunted Dolphin Hotel. Mike Enslin (John Cusack) is an author who specializes in horror, but who onl"
+    },
+    "name": "1408 (2/12) Movie CLIP - 56 Deaths (2007) HD"
+  }
+}

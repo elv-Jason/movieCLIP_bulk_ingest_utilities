@@ -1,0 +1,16 @@
+{
+  "masterLibId": "ilib3r8oe7hHKU4q6UVMV2rUfaPKx9ca",
+  "mezLibId": "ilib4JvLVStm2pDMa89332h8tNqUCZvY",
+  "masterType": "iq__2iN4VRAVbdaWhngdi9Jx5DPDYWGk",
+  "mezType": "iq__md7UNWKt52Smqz518GJSzK1BwmZ",
+
+  "videoDirPath": "/Users/jasonshin/mica-MovieCLIP/data_mp4/Demo",
+  "videoPath": "/Users/jasonshin/mica-MovieCLIP/data_mp4/Demo/--b-8xt2PeE.mp4",
+  "outputJsonPath": "/Users/jasonshin/ELV/elv-utils-js/utilities/movieCLIP_bulk_ingest_utilities/data/content_data.json",
+  "abrProfilePath": "/Users/jasonshin/ELV/abr_bulk_create/abr_profile.json",
+
+  "contentAdminsAddress": "0x7d85fdeff73baecc7554998e52d8ff4f8ee75e96",
+  "permissionType": "manage",
+  
+  "configUrl": "https://main.net955305.contentfabric.io/config"
+}
