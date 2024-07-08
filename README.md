@@ -38,9 +38,9 @@ export PRIVATE_KEY = Private Key
   "masterType": "Type for the master object",
   "mezType": "Type for the mezzanine object",
   
-  "videoDirPath": "/path/to/video_directory",
-  "videoPath": "/path/to/video_path",
-  "outputJsonPath": "/path/to/output_json",
+  "videoDirPath": "/path/to/video_directory",         # Path to the directory that contains all the videos
+  "videoPath": "",                                    # Should be left empty
+  "outputJsonPath": "./data/",
   "abrProfilePath": "/path/to/abr_profile",
   
   "contentAdminsAddress": "Address of the group to grant permissions",
@@ -54,6 +54,9 @@ export PRIVATE_KEY = Private Key
 
 #### BulkIngest.js
 
-
+* Extracts the original title of the content by calling TitleExtract.js
+* Extracts the essential ffmpeg metada by calling MetaCreate.js
+* Creates master object and grants access to the permission group
+* Creates mezzaine object and grants access to the permission group
 #### MetaCreate.js
 #### TitleExtract.js
