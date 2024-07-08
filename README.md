@@ -40,7 +40,7 @@ export PRIVATE_KEY = Private key
   
   "videoDirPath": "/path/to/video_directory",         # Path to the directory that contains all the videos
   "videoPath": "",                                    # Should be left empty
-  "outputJsonPath": "./data/",
+  "outputJsonPath": "./data/content_data.json",
   "abrProfilePath": "/path/to/abr_profile",
   
   "contentAdminsAddress": "Address of the group to grant permissions",
