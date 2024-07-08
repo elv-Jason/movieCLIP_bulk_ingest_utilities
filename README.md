@@ -25,8 +25,8 @@ npm install
 cd utilities
 git clone https://github.com/elv-Jason/movieCLIP_bulk_ingest_utilities.git
 
-export FABRIC_CONFIG_URL = "Config_URL"
-export PRIVATE_KEY = Private Key
+export FABRIC_CONFIG_URL = "Configuration url"
+export PRIVATE_KEY = Private key
 ```
 
 ## Configuration Setup (/config/config.json)
@@ -100,7 +100,7 @@ export PRIVATE_KEY = Private Key
   "contentAdminsAddress": "Address of the group to grant permissions",
   "permissionType": "Type of permission to grant",
   
-  "configUrl": "URL for the configuration"
+  "configUrl": "Configuration url"
 }
 ```
 Creating an ABR profile for bulk ingestion can be referenced here: [abr_bulk_create](https://github.com/elv-Jason/abr_bulk_create/)
