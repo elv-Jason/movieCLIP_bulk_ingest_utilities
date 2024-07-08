@@ -1,6 +1,6 @@
 # movieCLIP_bulk_ingest_utilities
 
-A utilities package that can be added to [elv-utils-js/utilities](https://github.com/eluv-io/elv-utils-js/) to allow bulk ingestion of MP4 videos
+A utilities package that can be added to [elv-utils-js/utilities](https://github.com/eluv-io/elv-utils-js/) to allow bulk ingestion of MP4 videos within the same directory
 
 This package specifically targets the ingestion of the [moveCLIP dataset](https://sail.usc.edu/~mica/MovieCLIP//)
 
