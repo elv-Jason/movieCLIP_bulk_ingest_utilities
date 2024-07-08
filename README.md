@@ -21,8 +21,10 @@ This package specifically targets the ingestion of the [moveCLIP dataset](https:
 git clone https://github.com/eluv-io/elv-utils-js
 cd elv-utils-js
 npm install
+
 cd utilities
 git clone https://github.com/elv-Jason/movieCLIP_bulk_ingest_utilities.git
+
 export FABRIC_CONFIG_URL = "Config_URL"
 export PRIVATE_KEY = Private Key
 ```
