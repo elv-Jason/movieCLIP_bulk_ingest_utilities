@@ -7,13 +7,13 @@ This package specifically targets the ingestion of the [moveCLIP dataset](https:
 ## Directory Layout (files essential for the bulk ingestion process)
 
      .
-    ├── BulkIngest.js
-    ├── MetaCreate.js
-    ├── TitleExtract.js
-    ├── config
-    │   ├── config.json
-    └── data
-        ├── content_data.json
+     ├── BulkIngest.js
+     ├── MetaCreate.js
+     ├── TitleExtract.js
+     ├── config
+     │   ├── config.json
+     └── data
+         ├── content_data.json
 
 ## Installation
 
