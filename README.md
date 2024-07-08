@@ -94,7 +94,7 @@ export PRIVATE_KEY = Private Key
   
   "videoDirPath": "/path/to/video_directory",         # Path to the directory that contains all the videos
   "videoPath": "",                                    # Should be left empty
-  "outputJsonPath": "./data/",
+  "outputJsonPath": "./data/content_data.json",
   "abrProfilePath": "/path/to/abr_profile",
   
   "contentAdminsAddress": "Address of the group to grant permissions",
@@ -103,7 +103,7 @@ export PRIVATE_KEY = Private Key
   "configUrl": "URL for the configuration"
 }
 ```
-Creating an ABR profile for all the videos that are being ingested can be referenced here: [abr_bulk_create](https://github.com/elv-Jason/abr_bulk_create/)
+Creating an ABR profile for bulk ingestion can be referenced here: [abr_bulk_create](https://github.com/elv-Jason/abr_bulk_create/)
 
 ## Usage
 
@@ -127,6 +127,9 @@ Creating an ABR profile for all the videos that are being ingested can be refere
 
 node BulkIngest.js
 
+#### Sample Ingested Mezzanine
+
+<img width="1065" alt="Screenshot 2024-07-08 at 1 11 01 PM" src="https://github.com/elv-Jason/movieCLIP_bulk_ingest_utilities/assets/171614703/09b0f709-6de0-4527-9468-633399018082">
 
 
 
