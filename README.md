@@ -53,7 +53,7 @@ export PRIVATE_KEY = Private key
 ## Usage
 
 #### TitleExtract.js
-* Extracts the original title (e.g., Harry Potter and the Deathly Hallows: Part 2 (1/5) Movie CLIP - Ron and Hermione Kiss (2011) HD)
+* Extracts the original title (e.g., Harry Potter and the Deathly Hallows: Part 2 (1/5) Movie CLIP - Ron and Hermione Kiss (2011) HD).
 
 
 #### MetaCreate.js
