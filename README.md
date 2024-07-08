@@ -38,9 +38,9 @@ export PRIVATE_KEY = Private key
   "masterType": "Type for the master object",
   "mezType": "Type for the mezzanine object",
   
-  "videoDirPath": "/path/to/video_directory",         # Path to the directory that contains all the videos
+  "videoDirPath": "/path/to/video_directory",         
   "videoPath": "",                                    # Should be left empty
-  "outputJsonPath": "./data/content_data.json",
+  "outputJsonPath": "./data/content_data.json",       # Fixed 
   "abrProfilePath": "/path/to/abr_profile",
   
   "contentAdminsAddress": "Address of the group to grant permissions",
