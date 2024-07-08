@@ -123,6 +123,9 @@ Creating an ABR profile for all the videos that are being ingested can be refere
 * Creates a master object and grants access to the permission group (7-second delay).
 * Creates a mezzanine object and grants access to the permission group (7-second delay).
 
+#### Command
+
+node BulkIngest.js
 
 
 
