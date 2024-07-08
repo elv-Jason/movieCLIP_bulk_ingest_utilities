@@ -123,11 +123,11 @@ Creating an ABR profile for bulk ingestion can be referenced here: [abr_bulk_cre
 * Creates a master object and grants access to the permission group (7-second delay).
 * Creates a mezzanine object and grants access to the permission group (7-second delay).
 
-#### Command
+## Command
 
 node BulkIngest.js
 
-#### Sample Ingested Mezzanine
+## Sample Ingested Mezzanine
 
 <img width="1065" alt="Screenshot 2024-07-08 at 1 11 01 PM" src="https://github.com/elv-Jason/movieCLIP_bulk_ingest_utilities/assets/171614703/09b0f709-6de0-4527-9468-633399018082">
 
