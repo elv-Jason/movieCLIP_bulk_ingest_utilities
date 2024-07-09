@@ -39,7 +39,7 @@ export PRIVATE_KEY = Private key
   "mezType": "Type for the mezzanine object",
   
   "videoDirPath": "/path/to/video_directory",         
-  "videoPath": "",                                    # Should be left empty
+  "videoPath": "",                                    # Empty
   "outputJsonPath": "./data/content_data.json",       # Fixed 
   "abrProfilePath": "/path/to/abr_profile",
   
